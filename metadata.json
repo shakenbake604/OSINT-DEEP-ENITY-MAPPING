@@ -1,0 +1,7 @@
+{
+  "name": "Hide and Seek OSINT Mapping Collector",
+  "description": "Create photoreal 3D maps to monitor and gather information about entities and fraud suspects. Gather entity addresses and display additional addresses associated with addresses. gather evidence, and AI will display relationships across maps. ",
+  "requestFramePermissions": [],
+  "prompt": "",
+  "majorCapabilities": []
+}
